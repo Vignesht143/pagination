@@ -63,20 +63,7 @@ body {
   border-radius: 10px;
 }
 
-h3 {
-  margin-top: 10px;
-  font-size: 18px;
-  text-transform: capitalize;
-}
 
-h1 {
-  text-align: center;
-  margin: 2rem;
-}
-
-p {
-  font-size: 14px;
-}
 
 #page-numbers {
   margin-top: 20px;
